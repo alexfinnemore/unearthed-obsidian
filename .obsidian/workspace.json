@@ -178,11 +178,13 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "bases:Create new base": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "13dc145e5f17c8cd",
   "lastOpenFiles": [
+    "docs/README.md",
     "docs/00 - Table of Contents.md",
     "Untitled.canvas",
     "Untitled.md"
