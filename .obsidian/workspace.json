@@ -187,6 +187,7 @@
   },
   "active": "ed887c7cf16b3fdb",
   "lastOpenFiles": [
+    "website-deploy.zip",
     "website/404.html",
     "website/docs.html",
     "website/js/main.js",
@@ -197,7 +198,6 @@
     "website/css",
     "website/src/app/api/auth/route.ts",
     "website/src/app/api/auth",
-    "website/src/app/api",
     "docs/09 - Exhibition Narrative & Immersive Experience Design.md",
     "Untitled.canvas",
     "docs/02 - Financial Model & Budget Planning.md",
