@@ -1,0 +1,29 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/core-plugins.json
+.obsidian/core-plugins-migration.json
+.obsidian/community-plugins.json
+.obsidian/plugins/*/
+.obsidian/graph.json
+.obsidian/canvas.json
+.obsidian/workspace
+.obsidian/cache
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/snippets/
+
+# Trash folder
+.trash/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~
+
+# Log files
+*.log
