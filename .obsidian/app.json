@@ -1,1 +1,10 @@
-{}
+{
+  "attachmentFolderPath": "docs/attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs",
+  "useMarkdownLinks": true,
+  "showFrontmatter": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false
+}

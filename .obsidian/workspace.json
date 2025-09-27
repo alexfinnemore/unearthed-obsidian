@@ -1,27 +1,18 @@
 {
   "main": {
-    "id": "c87d3197db23b08c",
+    "id": "main-workspace",
     "type": "split",
     "children": [
       {
-        "id": "781fd1dcf5e3fbec",
+        "id": "main-tabs",
         "type": "tabs",
         "children": [
           {
-            "id": "ed887c7cf16b3fdb",
+            "id": "main-leaf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -30,205 +21,32 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a7e08c91966b6336",
+    "id": "left-sidebar",
     "type": "split",
     "children": [
       {
-        "id": "7c2ff8b61e815475",
+        "id": "file-explorer",
         "type": "tabs",
         "children": [
           {
-            "id": "018a8a389bf07940",
+            "id": "file-explorer-leaf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "11c1e55bcf71486e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "1a2eab65210a41b3",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "direction": "vertical"
   },
   "right": {
-    "id": "5193edd101fe51a5",
+    "id": "right-sidebar",
     "type": "split",
-    "children": [
-      {
-        "id": "4cccd1f7c7eac580",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7986ac936e92186e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Intake chat.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Intake chat"
-            }
-          },
-          {
-            "id": "4f8b7930065279f3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Intake chat.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Intake chat"
-            }
-          },
-          {
-            "id": "ab128eb02e46626a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "87b797b507390e74",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Intake chat.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Intake chat"
-            }
-          },
-          {
-            "id": "f0dc6fb42a9acbc5",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          }
-        ],
-        "currentTab": 4
-      }
-    ],
-    "direction": "horizontal",
-    "width": 556.5
+    "children": [],
+    "direction": "vertical"
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "audio-recorder:Start/stop recording": false,
-      "copilot:Open Copilot Chat": false,
-      "github-sync:Sync with Remote": false
-    }
-  },
-  "active": "ed887c7cf16b3fdb",
-  "lastOpenFiles": [
-    "website-deploy.zip",
-    "website/404.html",
-    "website/docs.html",
-    "website/js/main.js",
-    "website/css/style.css",
-    "website/index.html",
-    "website/images",
-    "website/js",
-    "website/css",
-    "website/src/app/api/auth/route.ts",
-    "website/src/app/api/auth",
-    "docs/09 - Exhibition Narrative & Immersive Experience Design.md",
-    "Untitled.canvas",
-    "docs/02 - Financial Model & Budget Planning.md",
-    "website/node_modules/gray-matter/node_modules/js-yaml/README.md",
-    "website/node_modules/gray-matter/node_modules/js-yaml/CHANGELOG.md",
-    "website/node_modules/gray-matter/node_modules/argparse/README.md",
-    "website/node_modules/gray-matter/node_modules/argparse/CHANGELOG.md",
-    "website/node_modules/gray-matter/README.md",
-    "website/node_modules/gray-matter/CHANGELOG.md",
-    "website/node_modules/@ungap/structured-clone/README.md",
-    "website/node_modules/@types/mdast/README.md",
-    "website/node_modules/motion-utils/LICENSE.md",
-    "website/node_modules/unist-util-visit-parents/readme.md",
-    "website/node_modules/esprima/README.md",
-    "website/node_modules/sprintf-js/README.md",
-    "website/node_modules/trough/readme.md",
-    "website/node_modules/vfile-message/readme.md",
-    "website/node_modules/is-plain-obj/readme.md",
-    "website/node_modules/bail/readme.md",
-    "website/node_modules/extend-shallow/README.md",
-    "website/node_modules/extend/README.md",
-    "website/node_modules/extend/CHANGELOG.md",
-    "website/node_modules/character-entities-legacy/readme.md",
-    "website/node_modules/is-extendable/README.md",
-    "website/node_modules/character-entities-html4/readme.md",
-    "website/node_modules/unist-util-is/readme.md",
-    "website/public/window.svg",
-    "website/public/vercel.svg",
-    "website/public/next.svg",
-    "website/public/globe.svg",
-    "website/public/file.svg",
-    "Untitled 1.canvas"
-  ]
+  "active": "main-leaf",
+  "lastOpenFiles": []
 }
