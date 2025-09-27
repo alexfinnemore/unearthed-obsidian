@@ -1,12 +1,15 @@
 {
-  "buildCommand": "cd website && npm run build",
-  "outputDirectory": "website/.next",
-  "installCommand": "cd website && npm install",
-  "framework": "nextjs",
-  "rewrites": [
+  "version": 2,
+  "builds": [
     {
-      "source": "/(.*)",
-      "destination": "/website/$1"
+      "src": "website/package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/website/$1"
     }
   ]
 }
