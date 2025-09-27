@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentation - UNEARTHED</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        .docs-page {
+            padding-top: 70px;
+            min-height: 100vh;
+        }
+        
+        .docs-header {
+            padding: 4rem 0 2rem;
+            background: rgba(30, 41, 59, 0.3);
+        }
+        
+        .docs-content {
+            padding: 4rem 0;
+        }
+        
+        .doc-list {
+            display: grid;
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+        
+        .doc-link {
+            display: block;
+            background: rgba(30, 41, 59, 0.5);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            text-decoration: none;
+            color: inherit;
+            transition: var(--transition);
+        }
+        
+        .doc-link:hover {
+            border-color: var(--primary-color);
+            transform: translateY(-3px);
+            background: rgba(30, 41, 59, 0.7);
+        }
+        
+        .doc-link h3 {
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+            font-size: 1.25rem;
+            transition: var(--transition);
+        }
+        
+        .doc-link:hover h3 {
+            color: var(--primary-color);
+        }
+        
+        .doc-link p {
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+        
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--primary-color);
+            text-decoration: none;
+            margin-bottom: 2rem;
+            transition: var(--transition);
+        }
+        
+        .back-link:hover {
+            color: var(--secondary-color);
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">UNEARTHED</a>
+            <ul class="nav-menu">
+                <li><a href="index.html#home" class="nav-link">Home</a></li>
+                <li><a href="index.html#experience" class="nav-link">Experience</a></li>
+                <li><a href="docs.html" class="nav-link">Documentation</a></li>
+                <li><a href="index.html#contact" class="nav-link">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <div class="docs-page">
+        <section class="docs-header">
+            <div class="container">
+                <a href="index.html" class="back-link">← Back to Home</a>
+                <h1 class="section-title">Project Documentation</h1>
+                <p class="section-subtitle">
+                    Comprehensive planning and strategy documents for the Unearthed Exhibition
+                </p>
+            </div>
+        </section>
+
+        <section class="docs-content">
+            <div class="container">
+                <div class="doc-list">
+                    <a href="#" class="doc-link" onclick="openDoc('00-table-of-contents')">
+                        <h3>Table of Contents</h3>
+                        <p>Project introduction and comprehensive overview of all documentation materials.</p>
+                    </a>
+                    
+                    <a href="#" class="doc-link" onclick="openDoc('01-project-overview-strategy')">
+                        <h3>Project Overview & Strategy</h3>
+                        <p>Comprehensive project vision, objectives, and strategic framework for the luxury mineral exhibition.</p>
+                    </a>
+                    
+                    <a href="#" class="doc-link" onclick="openDoc('02-financial-model-budget')">
+                        <h3>Financial Model & Budget Planning</h3>
+                        <p>Financial projections, revenue models, and budget allocations for exhibition development and operations.</p>
+                    </a>
+                    
+                    <a href="#" class="doc-link" onclick="openDoc('03-sponsorship-strategy')">
+                        <h3>Sponsorship Strategy & Outreach</h3>
+                        <p>Corporate partnerships, funding strategies, and sponsor relationship development.</p>
+                    </a>
+                    
+                    <a href="#" class="doc-link" onclick="openDoc('04-venue-research')">
+                        <h3>Venue Research & Requirements</h3>
+                        <p>Location analysis, facility requirements, and venue selection criteria.</p>
+                    </a>
+                    
+                    <a href="#" class="doc-link" onclick="openDoc('05-exhibition-design')">
+                        <h3>Exhibition Design & Curation</h3>
+                        <p>Display concepts, specimen selection, and visitor experience design.</p>
+                    </a>
+                    
+                    <a href="#" class="doc-link" onclick="openDoc('06-timeline-management')">
+                        <h3>Timeline & Project Management</h3>
+                        <p>Project phases, milestones, and execution timeline for the exhibition.</p>
+                    </a>
+                    
+                    <a href="#" class="doc-link" onclick="openDoc('07-marketing-pr')">
+                        <h3>Marketing & PR Strategy</h3>
+                        <p>Brand positioning, promotional campaigns, and media outreach strategies.</p>
+                    </a>
+                    
+                    <a href="#" class="doc-link" onclick="openDoc('08-sales-strategy')">
+                        <h3>Sales Strategy & Collector Development</h3>
+                        <p>Revenue generation, collector relationships, and sales processes.</p>
+                    </a>
+                    
+                    <a href="#" class="doc-link" onclick="openDoc('09-exhibition-narrative')">
+                        <h3>Exhibition Narrative & Immersive Experience Design</h3>
+                        <p>Multi-story immersive underground universe concept and environmental storytelling.</p>
+                    </a>
+                </div>
+                
+                <div style="text-align: center; padding: 2rem; background: rgba(30, 41, 59, 0.3); border-radius: 1rem; margin-top: 2rem;">
+                    <h3 style="margin-bottom: 1rem; color: var(--text-primary);">Full Documentation Access</h3>
+                    <p style="color: var(--text-secondary); margin-bottom: 2rem;">
+                        For complete access to all project documents, detailed financial models, and strategic plans, 
+                        please contact the project team.
+                    </p>
+                    <a href="index.html#contact" class="btn btn-primary">Request Access</a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script src="js/main.js"></script>
+    <script>
+        function openDoc(docId) {
+            // For now, show an alert. In the future, this could:
+            // 1. Open the actual markdown file in a modal
+            // 2. Navigate to a dedicated page for that document
+            // 3. Load the content dynamically from your docs/ folder
+            
+            alert(`Document viewer coming soon!\n\nThis will open: ${docId}\n\nFor now, you can access the original markdown files in the docs/ folder of this project.`);
+        }
+        
+        // Initialize navigation for this page
+        document.addEventListener('DOMContentLoaded', function() {
+            const hamburger = document.querySelector('.hamburger');
+            const navMenu = document.querySelector('.nav-menu');
+
+            hamburger.addEventListener('click', function() {
+                hamburger.classList.toggle('active');
+                navMenu.classList.toggle('active');
+            });
+        });
+    </script>
+</body>
+</html>
