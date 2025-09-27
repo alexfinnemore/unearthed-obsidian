@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/04 - Venue Research & Requirements.md",
+                "file": "docs/10 - Website Copy & Content Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Venue Research & Requirements"
+              "title": "10 - Website Copy & Content Strategy"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/04 - Venue Research & Requirements.md",
+                "file": "docs/10 - Website Copy & Content Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04 - Venue Research & Requirements"
+              "title": "Backlinks for 10 - Website Copy & Content Strategy"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/04 - Venue Research & Requirements.md",
+                "file": "docs/10 - Website Copy & Content Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04 - Venue Research & Requirements"
+              "title": "Outgoing links from 10 - Website Copy & Content Strategy"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/04 - Venue Research & Requirements.md",
+                "file": "docs/10 - Website Copy & Content Strategy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04 - Venue Research & Requirements"
+              "title": "Outline of 10 - Website Copy & Content Strategy"
             }
           },
           {
@@ -182,10 +182,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "13dc145e5f17c8cd",
+  "active": "main-leaf",
   "lastOpenFiles": [
-    "docs/README.md",
+    "docs/09 - Exhibition Narrative & Immersive Experience Design.md",
+    "docs/10 - Website Copy & Content Strategy.md",
+    "docs/02 - Financial Model & Budget Planning.md",
     "docs/00 - Table of Contents.md",
+    "docs/04 - Venue Research & Requirements.md",
+    "docs/README.md",
     "Untitled.canvas",
     "Untitled.md"
   ]
