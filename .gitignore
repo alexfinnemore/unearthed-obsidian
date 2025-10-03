@@ -45,6 +45,8 @@ temp/
 # Obsidian workspace (personal settings)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/copilot/
 
 # Keep these Obsidian files for sharing
 # .obsidian/app.json
