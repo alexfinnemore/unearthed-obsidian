@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/10 - Website Copy & Content Strategy.md",
+                "file": "docs/IMAGE PROMPTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Website Copy & Content Strategy"
+              "title": "IMAGE PROMPTS"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "right-sidebar",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 658.5
+    "width": 522.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +184,20 @@
   },
   "active": "main-leaf",
   "lastOpenFiles": [
+    "assets/Saved AI: inspo/warehouse.avif",
+    "assets/Saved AI: inspo/himalayan seasalt bar.png",
+    "assets/Saved AI: inspo/grotto dining room.png",
+    "assets/Saved AI: inspo/Immersive cave experience.png",
+    "assets/Saved AI: inspo/Darkrooms schematic.png",
+    "assets/Saved AI: inspo",
+    "Saved AI: inspo/warehouse.avif",
+    "Saved AI: inspo/himalayan seasalt bar.png",
+    "Saved AI: inspo/grotto dining room.png",
+    "Saved AI: inspo/Immersive cave experience.png",
+    "Saved AI: inspo/Darkrooms schematic.png",
+    "Saved AI: inspo",
+    "assets/TheCompleteCosmicomics.pdf",
+    "docs/IMAGE PROMPTS.md",
     "docs/09 - Exhibition Narrative & Immersive Experience Design.md",
     "docs/10 - Website Copy & Content Strategy.md",
     "docs/02 - Financial Model & Budget Planning.md",
