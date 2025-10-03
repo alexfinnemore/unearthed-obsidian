@@ -47,6 +47,7 @@ temp/
 .obsidian/workspace-mobile.json
 .obsidian/plugins/
 .obsidian/copilot/
+.obsidian/copilot-index-*.json
 
 # Keep these Obsidian files for sharing
 # .obsidian/app.json
