@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/10 - Website Copy & Content Strategy.md",
+                "file": "docs/Pyrite Exhibition Space - Architectural Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Website Copy & Content Strategy"
+              "title": "Pyrite Exhibition Space - Architectural Design"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 658.5
+    "width": 574.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +184,11 @@
   },
   "active": "main-leaf",
   "lastOpenFiles": [
-    "docs/09 - Exhibition Narrative & Immersive Experience Design.md",
     "docs/10 - Website Copy & Content Strategy.md",
+    "docs/Pyrite Exhibition Space - Architectural Design.md",
+    "website/images/Golden Dining Room.png",
+    "website/images/u1323953263_a_grotto_carved_space_that_turns_into_a_Belle_Epo_7cbcc78d-f7e5-49cf-a0a6-45d06aa51a29_0.png",
+    "docs/09 - Exhibition Narrative & Immersive Experience Design.md",
     "docs/02 - Financial Model & Budget Planning.md",
     "docs/00 - Table of Contents.md",
     "docs/04 - Venue Research & Requirements.md",
